@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exporting unmanufactured goods the only cause of the want of employ for our poor, the beating down of the price of wooll, the fall of estates, the diminishing of the King's revenues, the discouraging merchandising, and impoverishing of the nation in general.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22750</idno><idno type="EEBO-CITATION">99885762</idno>
+  <idno type="VID">185573</idno>
+  <idno type="EEBO-PROQUEST">2248537434</idno>
+  
+            <idno type="STC">Wing E3887A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[120]</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[23]</idno>
+            <idno type="STC">ESTC R224952</idno>
+            <idno type="PROQUEST">ocm99885762</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885762e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185573)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[120]; C3:2[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exporting unmanufactured goods the only cause of the want of employ for our poor, the beating down of the price of wooll, the fall of estates, the diminishing of the King's revenues, the discouraging merchandising, and impoverishing of the nation in general.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>C1:3 imperfect: missing text at foot.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  Early works to 1800.</term>
+               <term type="topical_term">Exports --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185573:1"/>
+            <pb facs="tcp:185573:1"/>
+            <head>Exporting Unmanufactured Goods the Only Cause of the want of Employ for our Poor, the beating down of the Price of Wooll, the Fall of Estates, the Diminishing of the King's Revenues, the Discouraging Merchandising, and Im<g ref="char:EOLhyphen"/>poverishing of the Nation in General.</head>
+            <p>IF ever we design to make our Manufacture beneficial, for keeping up the Price of Wool, and for Improvement of Estates, which always go together, we must keep up the Price of our Goods, which can be done no other way but by keeping up their Goodness, and this will support their Reputation. And the only way to get our Goods a good Name abroad, is to destroy all Cheats and Tricks used in making and dressing of our broad Clothes Kersys and Serges; Our broad Clothes are strained Eight or Ten Yards in a Peice in length, and proportionably in breadth, by Tackles and Pullies fasten'd to an Head-bar, and so strain'd, are set into the Racks or Tenters, and dried; and our Mer<g ref="char:EOLhyphen"/>chants plead for this, that they must be so strain'd, because they are done so by our Neighbours.</p>
+            <p>How is it possible but these Practises must beat down the Price of our Goods, and make them of no Reputation where they are sent? and could they get any other Clothes, they would never wear such.</p>
+            <p>But no man can pretend that a peice of fine Bockin Bays, or a peice of fine half quar<g ref="char:EOLhyphen"/>ter, or a good mixt Serge, or our ordinary Wool broad Clothes, can be made without <hi>English</hi> or <hi>Irish</hi> Wooll; why then shall we suffer our Goods to go out unmanufactu<g ref="char:EOLhyphen"/>red? which is of as ill consequ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce as sending abroad our Wooll. If our Neighbours will have our Goods unmanufactured, they ought to pay <hi>3d</hi> the pound weight Custom; And if this Honourable House think fit to impose it, they must pay it, or shut up their Shops, and lay up their Ships, and starve; for our Manufacture is the Axil of their Trade, the Employ of their Ships, the support of their Government, and that which sets many thousands of them at work; and seeing they can be supplied no where else, they must pay it. But if not, and they should leave our Goods on our hands, God All<g ref="char:EOLhyphen"/>mighty having bless'd us with a Peace, if we make our Goods Proof, we may make our own Price, and shall have all the Trade in our own hands.</p>
+            <p>Our Neighbours without our Wooll, can make Druggets that wear like a peice of brown paper when it is wet, which cannot prejudice our Trade; our Wooll will yeild <hi>18d.</hi> the pound in other Countreys; and this is the Encouragement that makes people adventure their Lives and Estates to transport it.</p>
+            <p>But a peice of <hi>Colchester</hi>-Bays is 40 l. weight, when made, and takes up 60 l. weight of Wooll in the Fleece to make it; and this 60 l. weight of Wooll at <hi>18d.</hi> the pound is 4 l. 10 s. when our Bays are sold in <hi>London</hi> for 4 l. and the <hi>3d.</hi> the pound Duty is 10 s. so that when this Duty is imposed, our Bays will go out for the value of our Wooll abroad.</p>
+            <p>Sir <hi>Walter Rawleigh,</hi> in his Remains, <hi>p.</hi> 205. bewails it as a lamentable thing, that this Nation should lose a Million a Year by exporting our Goods undyed and undrest; and there are as many exported now in a Month, as were then in a Year. Who then can compute our Loss? It is incredible.</p>
+            <p>'Tis true there was once a Patent granted to the Duke of <hi>Monmouth,</hi> for preventing of our Goods going out unmanufactured; and our Neighbours made a Law upon it, That no dyed Goods should be imported into their Dominions; upon which, through the subtilty of those that had Commissions for sending abroad those Goods, the said Pa<g ref="char:EOLhyphen"/>tent was laid aside; but is it an Argument, that because we have been trick'd and chea<g ref="char:EOLhyphen"/>ted these many ages, that we must be so for ever?</p>
+            <p>The <hi>English Dratery</hi> Rule the Market, and govern the Price wherever they come, and being made proof, will carry and Price with great Reputation; for none can vye with us: but if they could, the Price of Goods is like a Pool of Water, if you pour into it, in any part of the Pool, the whole Pool riseth alike, and all parts have equal benefit; so that this Duty will be a general good to all Clothiers and Merchants in the World.</p>
+            <p>The Merchant will have advantage by it, for he will charge it on all the Goods he hath unfold abroad, and afterwards he hath no damage, for being in the same case with other Men, none can have Goods cheaper; and the dearer his Goods cost, the more he gets by them.</p>
+            <p>If our Goods are Manufactured at home many Thousand Families will have a full Im<g ref="char:EOLhyphen"/>ploy that now want bread; above 100 several Trades depend upon the Dying Trade. Our long <hi>Ells, Bays,</hi> &amp;c. That are sent out Undyed, are made and sold so very cheap, that the Makers are starved, and cannot afford to give a Price for Wooll, but beat it down all they can. 'Tis observable throughout the whole Trade, that those that make Mixt Goods, or that die their Goods, do get Mony, and are useful in the Nation, and will have choice Wooll, and give a Price for it; but of the White Men, 'tis a Rari<g ref="char:EOLhyphen"/>ty if there be Twenty in <hi>England</hi> worth any thing.</p>
+            <p>There is no 2 <hi>s.</hi> the Peice got by <hi>Colchester Bays</hi> throughout the Year, when by a Peice of <hi>Kersy</hi> of the same Vallue that is dyed wrought, there is above Forty Shillings comes a<g ref="char:EOLhyphen"/>mong the Workmen, from which can be something afforded to buy bread and flesh, which is the improvement of Land, and so it is most eminently throughout the whole Trade.</p>
+            <p>Sending out our Goods undyed, diminisheth the Revenue unaccountably in the Cu<g ref="char:EOLhyphen"/>stom, Divers ways, not only for Dye stufs, but in returns that are made for the Goods, the King hath Duty for all the Charges of Dying and Working the Cloth.</p>
+            <p>Now if a Tun of Logwood comes in, it Pays the King 5 <hi>l.</hi> Duty, if it be Exported again to Dye our Goods in Forreign Countreys, the King Pays back 4 <hi>l.</hi> to the Expor<g ref="char:EOLhyphen"/>ter: It Discourageth Merchandizing, for that our Neighbours have their Dye stuffs by Reason of the Draw backs cheaper then our Dyers, so that they can afford our Goods cheaper in Foreign Markets then our selves.</p>
+            <p>It Impoverisheth the Nation in General, for that it is deprived of several Millions a Year, that the Dying and Mannufacturing of our Goods would amount to. I have said nothing of <hi>Seamen,</hi> and Shiping, the Planters of Woad and Weld, of the Makers of Allum and Coperas, and ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, other great losses and hinderances, that come by not Dying our Goods.</p>
+            <p>As for whitened Goods that are worn white, they are perfectly Manufactured; and cost as <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the dying. All which is humbly offered to the Consideration of the Ho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
